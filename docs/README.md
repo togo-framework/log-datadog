@@ -25,7 +25,7 @@ Environment variables read by this plugin (extracted from the source — see the
 
 | Env var |
 |---|
-| `DD_API_KEY"` |
+| `DD_API_KEY` |
 
 ## Usage
 
